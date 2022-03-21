@@ -1,0 +1,30 @@
+body {
+    background-color: #FFFFFF;
+    color: #1f3e72;
+    font-family:  'Poppins', sans-serif;
+
+}
+
+#nav { 
+    color: #00f;
+    font-size: 30px;
+    margin-left: 150px;    /* padding: ; */
+    /* margin-right: 150px; */
+    margin: 150px 150px 150px 150px ;
+    display: inline;
+
+}
+#nav2{
+    color: #00f;
+    font-size: 30px;
+    margin-left: 300px;    /* padding: ; */
+    /* margin-right: 150px; */
+    text-align: right;
+    display: inline;
+
+    
+}
+
+.img{
+    text-align: right;
+}
